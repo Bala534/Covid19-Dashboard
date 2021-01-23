@@ -1,0 +1,30 @@
+.DataCard {
+  padding: 15px;
+}
+.DataCard .data-card {
+  text-align: center;
+  border-radius: 10px;
+  background: #fff;
+  color: #404b69;
+}
+.DataCard .data-card .data-card-title {
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  color: #fff;
+  width: 100%;
+  font-size: 18px;
+  font-weight: bold;
+  padding: 10px;
+  background: #404b69;
+}
+.DataCard .data-card .data-card-label {
+  padding: 20px;
+  font-weight: bold;
+}
+.DataCard .data-card .data-card-span-label {
+  font-size: 12px;
+}
+.DataCard .data-card .data-card-span-value {
+  font-size: 17px;
+  font-weight: bold;
+}
