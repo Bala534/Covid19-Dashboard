@@ -7,3 +7,11 @@ This is the covid19 dashboard for the EY Techathon
 ## Designed and Developed by:
 
 ### Team Fusion:
+
+<ul>
+  <li>Juttiga Mounika</li>
+  <li>Chikkala Pavitra</li>
+  <li>Gera Abhishek</li>
+  <li>Muddam Hema Sankara Sai Ganesh Babu</li>
+  <li>Chilakala Bala Mahesh</li>
+<ul>
