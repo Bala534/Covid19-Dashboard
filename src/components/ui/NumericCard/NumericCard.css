@@ -1,0 +1,42 @@
+.NumericCard {
+  padding: 50px 0px;
+}
+.NumericCard .card {
+  padding: 20px;
+  font-weight: bold;
+  min-height: 156px;
+  color: "#ffffff";
+  border-radius: 10px;
+}
+.NumericCard .mainNumbers {
+  font-size: 30px;
+}
+@media screen and (max-width: 900px) {
+  .NumericCard .mainNumbers {
+    font-size: 25px;
+  }
+}
+.NumericCard .deltaNumbers {
+  font-size: 18px;
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: center;
+}
+@media screen and (max-width: 900px) {
+  .NumericCard .deltaNumbers {
+    font-size: 15px;
+  }
+}
+.NumericCard .deltaarrow {
+  font-size: 20px;
+  font-weight: bold;
+}
+@media screen and (max-width: 900px) {
+  .NumericCard .deltaarrow {
+    font-size: 15px;
+  }
+}
+.NumericCard .delta-info {
+  margin-left: 5px;
+  cursor: pointer;
+}

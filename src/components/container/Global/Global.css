@@ -1,0 +1,65 @@
+.Global {
+  color: #fff;
+  height: 100vh;
+  overflow-y: scroll;
+  text-align: center;
+  background-color: #27293d !important;
+}
+.Global .gradient-card {
+  min-height: 368px;
+  background: linear-gradient(to right, #d9a7c7, #fffcdc);
+  padding-bottom: 15px;
+  padding-left: 15px;
+  border-radius: 15px;
+  margin-bottom: 15px;
+  padding-top: 30px;
+}
+.Global .global-map {
+  min-height: 368px;
+  border: 2px solid #fffcdc;
+  padding-bottom: 15px;
+  padding-top: 30px;
+  border-radius: 15px;
+  margin-bottom: 15px;
+}
+.Global .global-table {
+  margin-top: 20px;
+  margin-bottom: 15px;
+}
+.Global .global-table .global-table-card {
+  background: #fff;
+  color: #404b69;
+  border-radius: 10px;
+}
+.Global .Chart-Card {
+  padding: 15px;
+}
+.Global .Chart-Card .chart-card-style {
+  background: #fff;
+  border-radius: 10px;
+}
+.Global .Chart-Card .chart-card-title {
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  color: #fff;
+  width: 100%;
+  font-size: 18px;
+  font-weight: bold;
+  padding: 10px;
+  background: #404b69;
+}
+.Global .Chart-Card .chart-card-label-confirmed {
+  padding: 20px;
+  font-weight: bold;
+  color: #92063e;
+}
+.Global .Chart-Card .chart-card-label-deaths {
+  padding: 20px;
+  font-weight: bold;
+  color: #404b69;
+}
+.Global .Chart-Card .chart-card-label-recovered {
+  padding: 20px;
+  font-weight: bold;
+  color: #2f847c;
+}
