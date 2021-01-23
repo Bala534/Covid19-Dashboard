@@ -13,7 +13,7 @@ Dashboard created in ReactJS with ReCharts, React-Google-Charts, React-Simple-Ma
 <ul>
   <li>Juttiga Mounika</li>
   <li>Chikkala Pavitra</li>
-  <li>Gera Abhishek</li>
-  <li>Muddam Hema Sankara Sai Ganesh Babu</li>
   <li>Chilakala Bala Mahesh</li>
+  <li>Muddam Hema Sankara Sai Ganesh Babu</li>
+  <li>Gera Abhishek</li>
 <ul>
