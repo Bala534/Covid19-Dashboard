@@ -13,7 +13,8 @@
     "react-scripts": "4.0.1",
     "web-vitals": "^0.2.4",
     "react-router-dom": "5.2.0",
-    "bootstrap": "4.6.0"
+    "bootstrap": "4.6.0",
+    "homepage": "https://Bala534.github.io/my-app",
   },
   "scripts": {
     "start": "react-scripts start",
