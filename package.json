@@ -14,13 +14,15 @@
     "web-vitals": "^0.2.4",
     "react-router-dom": "5.2.0",
     "bootstrap": "4.6.0",
-    "homepage": "https://Bala534.github.io/my-app",
+    "homepage": "https://Bala534.github.io/my-app"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
