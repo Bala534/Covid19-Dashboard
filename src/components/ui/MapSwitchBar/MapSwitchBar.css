@@ -1,0 +1,18 @@
+.MapSwitchBar {
+  display: flex;
+  justify-content: center;
+}
+.MapSwitchBar .mapswitch-active {
+  border-radius: 5px;
+  padding: 5px 10px;
+  font-weight: bold;
+  margin: 0px 5px;
+  cursor: pointer;
+}
+.MapSwitchBar .mapswitch {
+  border-radius: 5px;
+  padding: 5px 10px;
+  font-weight: bold;
+  margin: 0px 5px;
+  cursor: pointer;
+}
