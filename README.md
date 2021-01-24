@@ -10,6 +10,8 @@ This is the covid19 dashboard for the EY Techathon
 
 Dashboard created in ReactJS with ReCharts, React-Google-Charts, React-Simple-Maps, React-Table.
 
+We referred the template from https://github.com/miteshtagadiya/Covid-19-Global-Dashboard
+
 ## Designed and Developed by:
 
 ### Team Fusion:
@@ -21,6 +23,3 @@ Dashboard created in ReactJS with ReCharts, React-Google-Charts, React-Simple-Ma
   <li>Muddam Hema Sankara Sai Ganesh Babu</li>
   <li>Gera Abhishek</li>
 <ul>
-
-
-We referred the template from https://github.com/miteshtagadiya/Covid-19-Global-Dashboard
