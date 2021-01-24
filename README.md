@@ -2,7 +2,7 @@
 
 This is the covid19 dashboard for the EY Techathon
 
-<img src='https://raw.githubusercontent.com/Bala534/Covid19-Dashboard/main/images/image3.jpeg'>
+<img src='https://raw.githubusercontent.com/Bala534/Covid19-Dashboard/main/images/image3.png'>
 
 <img src='https://raw.githubusercontent.com/Bala534/Covid19-Dashboard/main/images/image2.jpeg'>
 
