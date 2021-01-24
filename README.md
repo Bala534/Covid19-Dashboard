@@ -2,7 +2,7 @@
 
 This is the covid19 dashboard for the EY Techathon
 
-
+<img src='https://raw.githubusercontent.com/Bala534/Covid19-Dashboard/main/images/WhatsApp%20Image%202021-01-24%20at%206.23.19%20PM.jpeg'>
 
 Dashboard created in ReactJS with ReCharts, React-Google-Charts, React-Simple-Maps, React-Table.
 
